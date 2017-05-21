@@ -15,7 +15,7 @@ body{
 	font-family: "Raleway", sans-serif;
 	margin: 0;
 	padding: 0;
-	displa:inline-block;
+	display:inline-block;
 }
 
 .primera-seccion{
@@ -47,14 +47,6 @@ img{
 .fotos-pequenas{
 	width: 120px;
 }
-.verde{
-	width: 100%;
-	background-color: #ABE188;
-	display: inline-block;
-	height: 425px;
-	position: absolute;
-
-}
 .texto-largo{
 	width: 40%;
 	background-color: #F78E69;
@@ -64,7 +56,13 @@ img{
 	top: 4%;
 
 }
-.verde h3{
+section.texto-principal {
+    background-color: #ABE188;
+    padding: 4px;
+    height: 427px;
+
+}
+section.texto-principal h3{
 	color: white;
 	text-align: center;
 	padding: 24px 0 0;
