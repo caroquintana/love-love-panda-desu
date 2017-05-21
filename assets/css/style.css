@@ -95,7 +95,7 @@ li{
     border-color: white;
     margin: 26px;
 }
-ul.fotos-inline{
+ul#arreglopandas{
 	text-align: center;
 	border-style: 2px white solid;
 }
